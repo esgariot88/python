@@ -4,9 +4,9 @@ x = int(input("Введите координату X: "))
 y = int(input("Введите координату Y: "))
 if x>0 and y>0:
     print("Номер четверти плоскости: 1")
-elif x>0 and y<0:
+elif x<0 and y>0:
     print ("Номер четверти плоскости: 2")
 elif x<0 and y<0:
     print ("Номер четверти плоскости: 3")
-elif x<0 and y>0:
+elif :x<0 and y>0
     print ("Номер четверти плоскости: 4")
